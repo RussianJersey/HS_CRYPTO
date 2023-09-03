@@ -1,3 +1,4 @@
+//nano coin не работает через JVM, запускать через erlang и подключать Shell
 module Main where
 
 import Protolude hiding (option)
